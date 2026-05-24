@@ -2,3 +2,4 @@ Name: Paschal Onor
 Career goals: Senior Cloud-AI Engeer
 Favorite Technology: Cloud Technologies (AWS, Azure, and GCP)
 I am a Tech Enthusiast
+Cloud Class Experiment
